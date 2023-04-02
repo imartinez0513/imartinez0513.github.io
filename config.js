@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Ian',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'fecdddc5ff5a7ba7d74f4d91a18e5bde', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'any.do',
+			icon: 'clipboard-list',
+			link: 'https://any.do',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'cog',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Jira',
+					link: 'https://steelcloud.atlassian.net/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'SteelCloud Portal',
+					link: 'https://www.steelcloud-access.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Salesforce',
+					link: 'https://steelcloud123456.my.salesforce.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Microsoft 365 Admin Center',
+					link: 'https://admin.microsoft.com/#/homepage',
 				},
 			],
 		},
