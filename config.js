@@ -52,13 +52,13 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '5',
+			id: '6',
 			name: 'Twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
 		{
-			id: '2',
+			id: '5',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://gmail.com/',
