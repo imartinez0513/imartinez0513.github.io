@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '1',
 			name: 'any.do',
 			icon: 'clipboard-list',
-			link: 'https://any.do',
+			link: 'https://app.any.do/myday',
 		},
 		{
 			id: '4',
