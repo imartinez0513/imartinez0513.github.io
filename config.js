@@ -52,10 +52,10 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			id: '5',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '2',
@@ -64,7 +64,7 @@ const CONFIG = {
 			link: 'https://gmail.com/',
 		},
 		{
-			id: '3',
+			id: '1',
 			name: 'any.do',
 			icon: 'clipboard-list',
 			link: 'https://any.do',
@@ -76,13 +76,13 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
+			id: '2',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '6',
+			id: '3',
 			name: 'YouTube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Discord',
+					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'OpenAI Playground',
+					link: 'https://platform.openai.com/playground',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Wikipedia',
+					link: 'https://www.wikipedia.org/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Amazon',
+					link: 'https://www.amazon.com',
 				},
 			],
 		},
