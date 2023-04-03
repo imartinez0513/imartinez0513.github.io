@@ -176,6 +176,10 @@ const CONFIG = {
 					name: 'Microsoft 365 Admin Center',
 					link: 'https://admin.microsoft.com/#/homepage',
 				},
+				{
+					name: 'AWS',
+					link: 'https://aws.amazon.com/',
+				},
 			],
 		},
 	],
