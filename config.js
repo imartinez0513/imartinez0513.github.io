@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '6',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'AP News',
+			icon: 'newspaper',
+			link: 'https://apnews.com/',
 		},
 		{
 			id: '5',
@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me/',
 		},
 		{
 			id: '2',
