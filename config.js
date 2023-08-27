@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Whats the story, Morning Glory?',
+	greetingAfternoon: 'ATONAL SCREAMING,',
+	greetingEvening: 'Whats the tale, Nightinggale?,',
+	greetingNight: 'Sleep?',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -106,8 +106,34 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'cog',
+			icon: 'briefcase',
 			id: '2',
+			links: [
+				{
+					name: 'Jira',
+					link: 'https://steelcloud.atlassian.net/',
+				},
+				{
+					name: 'SteelCloud Portal',
+					link: 'https://www.steelcloud-access.com',
+				},
+				{
+					name: 'Salesforce',
+					link: 'https://steelcloud123456.my.salesforce.com/',
+				},
+				{
+					name: 'Microsoft 365 Admin Center',
+					link: 'https://admin.microsoft.com/#/homepage',
+				},
+				{
+					name: 'AWS',
+					link: 'https://aws.amazon.com/',
+				},
+			],
+		},
+		{
+			icon: 'cog',
+			id: '3',
 			links: [
 				{
 					name: 'Jira',

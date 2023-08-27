@@ -48,7 +48,7 @@ const generateButtons = () => {
 			break;
 		case 'buttons':
 			generateFirstButtonsContainer();
-			generateSecondButtonsContainer();
+//			generateSecondButtonsContainer();
 			break;
 		default:
 			break;
