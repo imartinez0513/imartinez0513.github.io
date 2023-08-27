@@ -52,13 +52,13 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '6',
+			id: '3',
 			name: 'Pocketcasts',
 			icon: 'podcast',
 			link: 'https://play.pocketcasts.com/podcasts',
 		},
 		{
-			id: '5',
+			id: '2',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.proton.me/',
@@ -70,7 +70,7 @@ const CONFIG = {
 			link: 'https://app.any.do/myday',
 		},
 		{
-			id: '2',
+			id: '4',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
