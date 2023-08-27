@@ -21,6 +21,7 @@ const generateFirstButtonsContainer = () => {
 	}
 };
 
+/*
 const generateSecondButtonsContainer = () => {
 	for (const button of CONFIG.secondButtonsContainer) {
 		let item = `
@@ -38,6 +39,7 @@ const generateSecondButtonsContainer = () => {
 		buttons_2.insertAdjacentHTML(position, item);
 	}
 };
+*/
 
 const generateButtons = () => {
 	switch (CONFIG.bentoLayout) {
