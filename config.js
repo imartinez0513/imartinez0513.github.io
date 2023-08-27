@@ -159,7 +159,7 @@ const CONFIG = {
 		},
 	],
 
-	// Second Links Container
+	/* Second Links Container
 	secondListsContainer: [
 		{
 			icon: 'binary',
@@ -205,5 +205,7 @@ const CONFIG = {
 				},
 			],
 		},
+	
 	],
+	*/
 };
