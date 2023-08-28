@@ -106,33 +106,33 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'briefcase',
+			icon: 'cog',
 			id: '2',
 			links: [
 				{
-					name: 'Jira',
-					link: 'https://steelcloud.atlassian.net/',
+					name: 'Dar-es-Balat',
+					link: 'https://wfremen.quickconnect.to/',
 				},
 				{
-					name: 'SteelCloud Portal',
-					link: 'https://www.steelcloud-access.com',
+					name: 'Heighliner',
+					link: 'https://heighliner.judgementative.com/',
 				},
 				{
-					name: 'Salesforce',
-					link: 'https://steelcloud123456.my.salesforce.com/',
+					name: 'Link List',
+					link: 'https://links.judgementative.com/bookmarks',
 				},
 				{
-					name: 'Microsoft 365 Admin Center',
-					link: 'https://admin.microsoft.com/#/homepage',
+					name: 'Must Consume Information',
+					link: 'https://imartinez0513.github.io/',
 				},
 				{
-					name: 'AWS',
-					link: 'https://aws.amazon.com/',
+					name: 'TBD',
+					link: 'https://imartinez0513.github.io/',
 				},
 			],
 		},
 		{
-			icon: 'cog',
+			icon: 'briefcase',
 			id: '3',
 			links: [
 				{
