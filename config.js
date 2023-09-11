@@ -19,7 +19,7 @@ const CONFIG = {
 	// Greetings
 	greetingMorning: 'Whats the story, Morning Glory?',
 	greetingAfternoon: 'ATONAL SCREAMING,',
-	greetingEvening: 'Whats the tale, Nightinggale?,',
+	greetingEvening: 'Whats the tale, Nightingale?,',
 	greetingNight: 'Sleep?',
 
 	// Layout
