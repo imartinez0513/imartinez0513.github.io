@@ -114,8 +114,8 @@ const CONFIG = {
 					link: 'https://wfremen.quickconnect.to/',
 				},
 				{
-					name: 'Heighliner',
-					link: 'https://heighliner.judgementative.com/',
+					name: 'Heimdall',
+					link: 'https://heimdall.judgementative.com/',
 				},
 				{
 					name: 'Link List',
