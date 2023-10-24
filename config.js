@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Ian',
+	name: 'Ian?',
 	imageBackground: false,
 	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Whats the story, Morning Glory?',
+	greetingMorning: '*Screaming Geometrically,',
 	greetingAfternoon: 'ATONAL SCREAMING,',
-	greetingEvening: 'Whats the tale, Nightingale?,',
-	greetingNight: 'Sleep?',
+	greetingEvening: 'Nani?!,',
+	greetingNight: 'Sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
