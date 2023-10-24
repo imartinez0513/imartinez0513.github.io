@@ -17,7 +17,7 @@ const CONFIG = {
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: '*Screaming Geometrically,',
+	greetingMorning: 'Screaming Geometrically,',
 	greetingAfternoon: 'ATONAL SCREAMING,',
 	greetingEvening: 'Nani?!,',
 	greetingNight: 'Sleep,',
